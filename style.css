@@ -80,7 +80,7 @@ select{
     padding: 5px;
     outline: none;
     background-color: rgba(243, 243, 243, 0.411);
-    color: White;
+    /* color: White; */
 }
 
 .submit{
